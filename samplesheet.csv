@@ -1,0 +1,30 @@
+﻿ID,NHP,Virus,Treatment,Vaccine,DPI,Timepoint
+sample01,NiVG-3,HeV-R,Vaccinated,rVSV-NiV,0,Baseline
+sample02,NiVG-3,HeV-R,Vaccinated,rVSV-NiV,4,4 DPI
+sample03,NiVG-3,HeV-R,Vaccinated,rVSV-NiV,7,7 DPI
+sample04,NiVG-3,HeV-R,Vaccinated,rVSV-NiV,10,10 DPI
+sample05,HeV-C2,HeV-R,Control,None,0,Baseline
+sample06,HeV-C2,HeV-R,Control,None,4,4 DPI
+sample07,HeV-C2,HeV-R,Control,None,6,Terminal
+sample08,HeV-C1,HeV-R,Control,None,0,Baseline
+sample09,HeV-C1,HeV-R,Control,None,4,4 DPI
+sample10,HeV-C1,HeV-R,Control,None,6,Terminal
+sample11,NiVG-4,HeV-R,Vaccinated,rVSV-NiV,0,Baseline
+sample12,NiVG-4,HeV-R,Vaccinated,rVSV-NiV,4,4 DPI
+sample13,NiVG-4,HeV-R,Vaccinated,rVSV-NiV,7,7 DPI
+sample14,NiVG-4,HeV-R,Vaccinated,rVSV-NiV,10,10 DPI
+sample15,HeV-C3,HeV-R,Control,None,0,Baseline
+sample16,HeV-C3,HeV-R,Control,None,4,4 DPI
+sample17,HeV-C3,HeV-R,Control,None,7,Terminal
+sample18,NiVG-2,HeV-R,Vaccinated,rVSV-NiV,0,Baseline
+sample19,NiVG-2,HeV-R,Vaccinated,rVSV-NiV,4,4 DPI
+sample20,NiVG-2,HeV-R,Vaccinated,rVSV-NiV,7,7 DPI
+sample21,NiVG-2,HeV-R,Vaccinated,rVSV-NiV,10,10 DPI
+sample22,NiVG-1,HeV-R,Vaccinated,rVSV-NiV,0,Baseline
+sample23,NiVG-1,HeV-R,Vaccinated,rVSV-NiV,4,4 DPI
+sample24,NiVG-1,HeV-R,Vaccinated,rVSV-NiV,7,7 DPI
+sample25,NiVG-1,HeV-R,Vaccinated,rVSV-NiV,10,10 DPI
+sample26,NiVG-5,HeV-R,Vaccinated,rVSV-NiV,0,Baseline
+sample27,NiVG-5,HeV-R,Vaccinated,rVSV-NiV,4,4 DPI
+sample28,NiVG-5,HeV-R,Vaccinated,rVSV-NiV,7,7 DPI
+sample29,NiVG-5,HeV-R,Vaccinated,rVSV-NiV,10,10 DPI
