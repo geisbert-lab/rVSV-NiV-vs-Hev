@@ -2,6 +2,8 @@
 
 > Paper citation TBD; manuscript in preparation
 
+[![DOI](https://zenodo.org/badge/1103290913.svg)](https://doi.org/10.5281/zenodo.18944367)
+
 ## Methods
 
 The expression of ~779 host mRNAs was quantified via the Nanostring NHP Immunology v2 panel according to the manufacturer’s instructions. Raw RCC files were loaded into [nSolver v4.0](https://nanostring.com/products/ncounter-analysis-system/ncounter-analysis-solutions/), and background thresholding was performed using the default parameters. Thresholded count matrices were exported from nSolver and analyzed with [`limma v3.65.3`](https://doi.org/10.1093/nar/gkv007) (PMID [25605792](https://pubmed.ncbi.nlm.nih.gov/25605792/)) via [`edgeR v4.7.3`](https://doi.org/10.1093/bioinformatics/btp616) (PMID [19910308](https://pubmed.ncbi.nlm.nih.gov/19910308/)) in R v4.5.0.
@@ -13,5 +15,6 @@ Digital cell type deconvolution was performed on all Nanostring-profiled samples
 ## Data availability
 
 The raw RCC files are available via NCBI GEO (_accession TBD_). The unformatted output figures are in [`analysis`](analysis/). The code is in [`analysis.r`](analysis.r). 
+
 
 
